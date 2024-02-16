@@ -21,7 +21,6 @@ if radius < 50.0 {
     while the_area <= 0 {
         break;
     }
-}
 } else if true {
     print 1;
 } else {
